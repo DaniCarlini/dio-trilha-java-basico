@@ -17,9 +17,9 @@ tipos de dados + identificação + valor atribuído
 <tipo> <nomeVariavel> <atribuicaoDeValorOpcional>
   
   Ex:
-   int idade
-   int anoFabricacao = 2021
-   double salarioMinimo = 2500
+   int idade /p
+   int anoFabricacao = 2021 /p
+   double salarioMinimo = 2500 /p
 
 
 
